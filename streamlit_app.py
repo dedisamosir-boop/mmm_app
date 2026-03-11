@@ -351,7 +351,7 @@ def total_outcome(curves: Dict[str, pd.DataFrame], alloc: Dict[str, float]) -> f
 
 
 # ---------- UI ----------
-st.title("Marketing Mix Modelling - Buddget Optimization Engine")
+st.title("Marketing Mix Modelling - budget Optimization Engine")
 # st.caption(
 #     "Focus on Plan only. Data source: local Excel (`mmm_data_download.xlsx`) or uploaded Excel."
 # )
